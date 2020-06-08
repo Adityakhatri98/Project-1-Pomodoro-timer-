@@ -68,7 +68,4 @@ import {vibrate} from './utils'
 
 // causes phone to vibrate
 vibrate()
-```
-
-Good luck!
-
+``'
